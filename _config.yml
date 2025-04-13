@@ -25,9 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Abhinav Nandwani"
   pronouns         : # example: "she/her"  
-  bio              : "Results-driven undergraduate double-majoring in Computer Engineering and Computer Science at the University of Wisconsin–
-Madison, seeking RTL design or hardware verification internships. Proficient in SystemVerilog, UVM, and FPGA design, with hands-
-on experience in AI accelerators, high-speed digital design, and hardware-level verification using industry-standard EDA tools."
+  bio              : "A systems architecture-level thinker who leverages deep RTL/hardware knowledge to drive the design of domain-specific accelerators (DSAs)"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
